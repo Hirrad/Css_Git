@@ -1,0 +1,22 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hirrad/Css_Git.git"
+  },
+  "author": "Klim Klimentov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hirrad/Css_Git/issues"
+  },
+  "homepage": "https://github.com/Hirrad/Css_Git#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
